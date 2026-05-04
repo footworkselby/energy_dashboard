@@ -1,0 +1,5 @@
+influxdb
+streamlit
+plotly
+pandas
+python-dotenv
